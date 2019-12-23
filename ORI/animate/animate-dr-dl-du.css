@@ -1,0 +1,313 @@
+/* ------------------------------------------------------------------------------------------------- DURASI */
+.animated.dr-1{
+    animation-duration: 1s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+.animated.dr-2{
+    animation-duration: 2s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+.animated.dr-3{
+    animation-duration: 3s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+.animated.dr-4{
+    animation-duration: 6s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+.animated.dr-5{
+    animation-duration: 5s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+.animated.dr-6{
+    animation-duration: 6s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-7{
+    animation-duration: 7s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-8{
+    animation-duration: 8s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-9{
+    animation-duration: 9s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-10{
+    animation-duration: 10s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-11{
+    animation-duration: 11s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-12{
+    animation-duration: 12s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-13{
+    animation-duration: 13s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-14{
+    animation-duration: 14s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-15{
+    animation-duration: 15s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-16{
+    animation-duration: 16s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-17{
+    animation-duration: 17s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-18{
+    animation-duration: 18s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-19{
+    animation-duration: 19s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dr-20{
+    animation-duration: 20s;
+    /* animation-delay: 2s; */
+    /* animation-iteration-count: infinite; */
+  }
+
+  
+/* ------------------------------------------------------------------------------------------------- DELAY */
+.animated.dl-1{
+    /* animation-duration: 20s; */
+    animation-delay: 1s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-2{
+    /* animation-duration: 20s; */
+    animation-delay: 2s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-3{
+    /* animation-duration: 20s; */
+    animation-delay: 3s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-4{
+    /* animation-duration: 20s; */
+    animation-delay: 4s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-5{
+    /* animation-duration: 20s; */
+    animation-delay: 5s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-6{
+    /* animation-duration: 20s; */
+    animation-delay: 6s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-7{
+    /* animation-duration: 20s; */
+    animation-delay: 7s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-8{
+    /* animation-duration: 20s; */
+    animation-delay: 8s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-9{
+    /* animation-duration: 20s; */
+    animation-delay: 9s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-10{
+    /* animation-duration: 20s; */
+    animation-delay: 10s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-11{
+    /* animation-duration: 20s; */
+    animation-delay: 11s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-12{
+    /* animation-duration: 20s; */
+    animation-delay: 12s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-13{
+    /* animation-duration: 20s; */
+    animation-delay: 13s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-14{
+    /* animation-duration: 20s; */
+    animation-delay: 14s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-15{
+    /* animation-duration: 20s; */
+    animation-delay: 15s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-16{
+    /* animation-duration: 20s; */
+    animation-delay: 16s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-17{
+    /* animation-duration: 20s; */
+    animation-delay: 17s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-18{
+    /* animation-duration: 20s; */
+    animation-delay: 18s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-19{
+    /* animation-duration: 20s; */
+    animation-delay: 19s;
+    /* animation-iteration-count: infinite; */
+  }
+  .animated.dl-20{
+    /* animation-duration: 20s; */
+    animation-delay: 20s;
+    /* animation-iteration-count: infinite; */
+  }
+
+
+
+  /* ------------------------------------------------------------------------------------------------- DI ULANG */
+  .animated.du-x{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: infinite;
+  }
+  .animated.du-1{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 1;
+  }
+  .animated.du-2{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 2;
+  }
+  .animated.du-3{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 3;
+  }
+  .animated.du-4{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 4;
+  }
+  .animated.du-5{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 6;
+  }
+  .animated.du-6{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 6;
+  }
+  .animated.du-7{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 7;
+  }
+  .animated.du-8{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 8;
+  }
+  .animated.du-9{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 9;
+  }
+  .animated.du-10{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 10;
+  }
+  .animated.du-11{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 11;
+  }
+  .animated.du-12{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 12;
+  }
+  .animated.du-13{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 13;
+  }
+  .animated.du-14{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 14;
+  }
+  .animated.du-15{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 15;
+  }
+  .animated.du-16{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 16;
+  }
+  .animated.du-17{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 17;
+  }
+  .animated.du-18{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 18;
+  }
+  .animated.du-19{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 19;
+  }
+  .animated.du-20{
+    /* animation-duration: 20s; */
+    /* animation-delay: 1s; */
+    animation-iteration-count: 20;
+  }

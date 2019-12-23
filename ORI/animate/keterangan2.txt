@@ -1,0 +1,14 @@
+--------------- CARA PENGGUNAAN ANIMATE DAN WOW
+1) pasangkan animate.css,animate-dr-dl-du.css,dan wow.js
+
+2) <script>new WOW().init();</script> pasangkan script tersebut dibawah yg diatas
+
+3) contoh penggunaanya :
+
+<div class="wow fadeIn">Hello i'm fadeIn</div>
+<div class="wow fadeIn dr-5 dl-1 du-2">Hello i'm fadeIn</div>
+
+--------------- CARA PENGGUNAAN ANIMATE HOVER
+1) pasangkan animate.css,animate-dr-dl-du.css dan animate-hover.css
+2) contoh pemakaian :
+<p class="animated bounce-h dr-2 ">Do not hesitate to contact me!</p>
