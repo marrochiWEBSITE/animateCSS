@@ -1,0 +1,210 @@
+.onim {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+
+  @media (print), (prefers-reduced-motion: reduce) {
+    .onim {
+      -webkit-animation-duration: 1ms !important;
+      animation-duration: 1ms !important;
+      -webkit-transition-duration: 1ms !important;
+      transition-duration: 1ms !important;
+      -webkit-animation-iteration-count: 1 !important;
+      animation-iteration-count: 1 !important;
+    }
+  }
+
+.onim.onim-1{
+    -webkit-animation-name: onim-1;
+    animation-name: onim-1;
+}
+
+@keyframes onim-1{
+    20%{
+        color: #000;
+    }
+    40%{
+        color: aqua;
+    }
+    60%{
+        color:sandybrown;
+    }
+	76%{
+        color: rgb(255, 41, 173);
+    }
+    90%{
+        color: #ff85d4;
+    }
+}
+
+@-webkit-keyframes onim-1{
+    20%{
+        color: #000;
+    }
+    40%{
+        color: aqua;
+    }
+    60%{
+        color:sandybrown;
+    }
+	76%{
+        color: rgb(255, 41, 173);
+    }
+    90%{
+        color: #ff85d4;
+    }
+}
+
+.onim.onim-2{
+    -webkit-animation-name: onim-2;
+    animation-name: onim-2;
+}
+
+@keyframes onim-2{
+  33.33%{
+      color:#ffbb00;
+  }
+  66.66%{
+      color: #fff700;
+  }
+  99.99%{
+      color: #99ff00;
+  }
+}
+@-webkit-keyframes onim-2{
+    33.33%{
+        color:#ffbb00;
+    }
+    66.66%{
+        color: #fff700;
+    }
+    99.99%{
+        color: #99ff00;
+    }
+  }
+
+  .onim.onim-3{
+    -webkit-animation-name: onim-3;
+    animation-name: onim-3;
+}
+
+@keyframes onim-3{
+    10%{
+        color: #057872;
+    }
+    20%{
+        color: #02fff2;
+    }
+    30%{
+        color: #689305;
+    }
+    40%{
+        color:  #b3ff00;
+    }
+    50%{
+        color: #830078;
+    }
+    60%{
+        color: #ff00ea;
+    }
+    70%{
+        color: #8e0202;
+    }
+    80%{
+        color: #ff0000;
+    }
+    90%{
+        color: #fff700;
+    }
+  }
+
+  @-webkit-keyframes onim-3{
+    10%{
+        color: #057872;
+    }
+    20%{
+        color: #02fff2;
+    }
+    30%{
+        color: #689305;
+    }
+    40%{
+        color:  #b3ff00;
+    }
+    50%{
+        color: #830078;
+    }
+    60%{
+        color: #ff00ea;
+    }
+    70%{
+        color: #8e0202;
+    }
+    80%{
+        color: #ff0000;
+    }
+    90%{
+        color: #fff700;
+    }
+}
+
+.onim.onim-4{
+    -webkit-animation-name: onim-4;
+    animation-name: onim-4;
+}
+
+@keyframes onim-4{
+     5%{
+        color:  #fff700;
+     }
+     10%{
+         color: #00ff77;
+     }
+     15%{
+         color: #0095ff;
+     }
+     20%{
+         color: #00ffc3;
+     }
+     25%{
+         color: #9bff79;
+     }
+     30%{
+         color: #ff79eb;
+     }
+     35%{
+         color: #befb3c;
+     }
+     40%{
+         color: #057872;
+     }
+     45%{
+         color: #3cbbfb;
+     }
+     50%{
+        color: #9bff79;
+     }
+     65%{
+         color: #d43cfb;
+     }
+     70%{
+         color: #c40202;
+     }
+     75%{
+         color: #c40276;
+     }
+     80%{
+         color: #c5c4f2;
+     }
+     85%{
+         color: #4a4a54;
+     }
+     90%{
+         color: #ffac54;
+     }
+     95%{
+         color: transparent;
+     }
+}
